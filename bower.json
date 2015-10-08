@@ -1,0 +1,24 @@
+{
+  "name": "is-unique",
+  "main": "is-unique.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/is-unique",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Predicate that returns true if collection contains unique values.",
+  "keywords": [
+    "array",
+    "string",
+    "predicate",
+    "unique"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
